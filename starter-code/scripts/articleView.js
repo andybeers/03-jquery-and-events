@@ -10,3 +10,6 @@ articleView.populateFilters = function() {
     $('#author-filter').append(optionTag);
   });
 };
+
+//TODO: invoke all of the above methods!
+articleView.populateFilters();
